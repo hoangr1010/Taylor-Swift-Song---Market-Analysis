@@ -9,7 +9,7 @@ The project follow steps:
 - Step 1: Data enrichment
 - Step 2: Create Tableau interactive dashboard and static report
 
-## Step 1:
+## Step 1: Data enrichment
 There are some type of data sources I use in this project to enrich my data
 #### Main dataset:
 - Data collect method: https://github.com/hoangr1010/Song-Analysis
@@ -33,6 +33,6 @@ There are some type of data sources I use in this project to enrich my data
 
 ###### Note: all dataset I used for this project placed on dataset folder. song_df_join_hot_100 is dataset I left join between song_df and hot_100_df
 
-## Step 2:
+## Step 2: Create Tableau interactive dashboard and static report
 - Link Dashboard: https://public.tableau.com/app/profile/nguyen.huu.huy.hoang/viz/TaylorSwiftMarketandSongAnalysis/MainDashboard?publish=yes
-- I also create general report: 
+- I also create general report, it's included on png file
