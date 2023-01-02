@@ -36,4 +36,3 @@ There are some type of data sources I use in this project to enrich my data
 ## Step 2: Create Tableau interactive dashboard and static report
 - Link Dashboard: https://public.tableau.com/app/profile/nguyen.huu.huy.hoang/viz/TaylorSwiftMarketandSongAnalysis/MainDashboard?publish=yes
 - I also create general report, it's included on png file
-/Users/hoanglui/Library/Mobile Documents/com~apple~CloudDocs/Environment/Project/Taylor Swift Song & Market Analysis/Song_Analysis(2)/TaylorSwift_Report.png
