@@ -33,10 +33,12 @@ def get_hot_100():
                   )
     headers = []
     for i in header_soup:
-        head = (i.text
-                    .replace('\n','')
-                    .replace('\t','')
-                    )
+        head = (
+                    i
+                        .text
+                        .replace('\n','')
+                        .replace('\t','')
+               )
         headers.append(head)
     headers.remove('Billboard Hot 100')
     hot_100_df = pd.DataFrame(columns = headers)
