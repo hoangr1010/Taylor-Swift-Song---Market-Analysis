@@ -3,6 +3,7 @@
 
 ### Goal of Project 
 - This project based on the data I extracted from previous project - Song Analysis, where I analyse only Taylor Swift song and its popularity currently, to give a more general and insightful on her song and market by data enrichment
+link for Song Analysis: https://github.com/hoangr1010/Song-Analysis
 - This project also provide interactive dashboard about Taylor Swift song and market. 
 
 The project follow steps:
@@ -11,14 +12,14 @@ The project follow steps:
 
 ## Step 1: Data enrichment
 There are some type of data sources I use in this project to enrich my data
-#### Main dataset:
+#### Main dataset: 
 - Data collect method: https://github.com/hoangr1010/Song-Analysis
 - This data set includes: song, album, album release date, song feature, popularity, song genres
 - Sources: Spotify, LastFM
 
 #### Views amount by country for last 12 months:
-- Data collect method: use selenium to scrape data 
-- This data set includes: Country_name, views amount for last 12 months
+- Data collect method: use Selenium to scrape data 
+- This data set includes: Country_name, views amount for last 12 months for each countries
 - Sources: Youtube Music Chart
 
 #### Taylor Swift on Artist 100 (Billboard chart for artist)
