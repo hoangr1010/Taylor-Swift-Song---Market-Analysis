@@ -2,8 +2,7 @@
 ## Project Summary
 
 ### Goal of Project 
-- This project based on the data I extracted from previous project - Song Analysis, where I analyse only Taylor Swift song and its popularity currently, to give a more general and insightful on her song and market by data enrichment
-link for Song Analysis: https://github.com/hoangr1010/Song-Analysis
+- This project based on the data I extracted from previous project - Song Analysis(https://github.com/hoangr1010/Song-Analysis), where I analyse only Taylor Swift song and its popularity currently, to give a more general and insightful on her song and market by data enrichment.
 - This project also provide interactive dashboard about Taylor Swift song and market. 
 
 The project follow steps:
