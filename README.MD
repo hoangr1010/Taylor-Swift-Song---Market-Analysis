@@ -3,6 +3,7 @@
 
 ### Project Motivation
 - I am a new audience of Taylor Swift music, I find that she is really famous in music industry for a decade. because of curiosity, I decide to collect and analyse data to understand how she famous and what her music style actually is based on time series.
+interactive dashboard: https://public.tableau.com/app/profile/nguyen.huu.huy.hoang/viz/TaylorSwiftMarketandSongAnalysis/MainDashboard?publish=yes
 
 ### Planning
 #### How I decide what data to collect:
